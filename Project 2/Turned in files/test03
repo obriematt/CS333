@@ -1,0 +1,136 @@
+Script started on October 21, 2015 01:47:25 AM PDT
+sh-3.2$ man
+usage:  man [-] [-adFlrt] [-M path] [-T macro-package ] [ -s section ] name ...
+        man [-M path] -k keyword ...
+        man [-M path] -f file ...
+sh-3.2$ ex  make
+sh-3.2$ blitz -g 0s  s os
+Beginning execution...
+====================  KPL PROGRAM STARTING  ====================
+Example Thread-based Programs...
+Initializing Thread Scheduler...
+Plato
+    Sartre
+        Kant
+            Nietzsche
+                Aristotle
+.   .   .   .   .   
+    .   .   .   .   
+E   .   .   .   .   
+.   .   .   .   .   
+.       .   .   .   
+.   E   .   .   .   
+.   E       .   .   
+.   E           .   
+.   E       E   .   
+.   E       E       
+    E       E       
+    .       E       
+E   .       E       
+E   .       .       
+E   .   E   .       
+E       E   .       
+.       E   .       
+.       E   .   E   
+.       E       E   
+.       .       E   
+.   E   .       E   
+    E   .       E   
+    E   .       .   
+    E   .   E   .   
+    .   .   E   .   
+E   .   .   E   .   
+E   .       E   .   
+E   .       E       
+E   .       .       
+E   .   E   .       
+.   .   E   .       
+.   .   E   .   E   
+.       E   .   E   
+.       E       E   
+        E       E   
+        .       E   
+    E   .       E   
+    E           E   
+    E           .   
+    E       E   .   
+    E       E       
+    .       E       
+E   .       E       
+E   .       .       
+E   .   E   .       
+E   .   E           
+E       E           
+E       .           
+E       .   E       
+.       .   E       
+.   E   .   E       
+    E   .   E       
+    E       E       
+    E       .       
+    E       .   E   
+    .       .   E   
+    .   E   .   E   
+    .   E       E   
+        E       E   
+        E       .   
+E       E       .   
+E       .       .   
+E       .   E   .   
+E       .   E       
+E           E       
+E           .       
+E       E   .       
+.       E   .       
+.       E   .   E   
+.       E       E   
+        E       E   
+        .       E   
+    E   .       E   
+    E   .       .   
+    E   .   E   .   
+    E       E   .   
+    E       E       
+    .       E       
+E   .       E       
+E   .       .       
+E   .   E   .       
+E       E   .       
+E       E           
+.       E           
+.       E       E   
+.       .       E   
+.   E   .       E   
+    E   .       E   
+    E           E   
+    E           .   
+    E       E   .   
+    .       E   .   
+E   .       E   .   
+E   .       E       
+E           E       
+E           .       
+E       E   .       
+.       E   .       
+.       E   .   E   
+.       .   .   E   
+.   E   .   .   E   
+.   E   .   .   .   
+.   E   .   .       
+.   E   .   .   E   
+.   .   .   .   E   
+.   .   .   .   .   
+
+*****  A 'wait' instruction was executed and no more interrupts are scheduled... halting emulation!  *****
+
+Done!  The next instruction to execute will be:
+000EC8: 09000000       ret     
+Number of Disk Reads    = 0
+Number of Disk Writes   = 0
+Instructions Executed   = 565450
+Time Spent Sleeping     = 0
+    Total Elapsed Time  = 565450
+sh-3.2$ exit
+exit
+
+script done on October 21, 2015 01:47:39 AM PDT

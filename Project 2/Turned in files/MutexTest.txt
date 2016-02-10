@@ -1,0 +1,94 @@
+Script started on October 21, 2015 01:48:36 AM PDT
+sh-3.2$ make
+sh-3.2$ v blitz -g os
+Beginning execution...
+====================  KPL PROGRAM STARTING  ====================
+Example Thread-based Programs...
+Initializing Thread Scheduler...
+
+-- You should see 70 lines, each consecutively numbered. --
+
+LockTester-A = 1
+LockTester-B = 2
+LockTester-C = 3
+LockTester-C = 4
+LockTester-C = 5
+LockTester-D = 6
+LockTester-D = 7
+LockTester-E = 8
+LockTester-A = 9
+LockTester-C = 10
+LockTester-D = 11
+LockTester-F = 12
+LockTester-G = 13
+LockTester-B = 14
+LockTester-E = 15
+LockTester-C = 16
+LockTester-D = 17
+LockTester-F = 18
+LockTester-G = 19
+LockTester-A = 20
+LockTester-B = 21
+LockTester-C = 22
+LockTester-D = 23
+LockTester-F = 24
+LockTester-G = 25
+LockTester-E = 26
+LockTester-A = 27
+LockTester-C = 28
+LockTester-D = 29
+LockTester-F = 30
+LockTester-G = 31
+LockTester-B = 32
+LockTester-E = 33
+LockTester-A = 34
+LockTester-C = 35
+LockTester-F = 36
+LockTester-G = 37
+LockTester-D = 38
+LockTester-B = 39
+LockTester-E = 40
+LockTester-A = 41
+LockTester-F = 42
+LockTester-G = 43
+LockTester-D = 44
+LockTester-C = 45
+LockTester-B = 46
+LockTester-E = 47
+LockTester-A = 48
+LockTester-G = 49
+LockTester-D = 50
+LockTester-C = 51
+LockTester-F = 52
+LockTester-B = 53
+LockTester-E = 54
+LockTester-A = 55
+LockTester-G = 56
+LockTester-D = 57
+LockTester-F = 58
+LockTester-B = 59
+LockTester-E = 60
+LockTester-A = 61
+LockTester-G = 62
+LockTester-F = 63
+LockTester-B = 64
+LockTester-E = 65
+LockTester-A = 66
+LockTester-G = 67
+LockTester-F = 68
+LockTester-B = 69
+LockTester-E = 70
+
+*****  A 'wait' instruction was executed and no more interrupts are scheduled... halting emulation!  *****
+
+Done!  The next instruction to execute will be:
+000EC8: 09000000       ret     
+Number of Disk Reads    = 0
+Number of Disk Writes   = 0
+Instructions Executed   = 560919
+Time Spent Sleeping     = 0
+    Total Elapsed Time  = 560919
+sh-3.2$ ex  exit
+exit
+
+script done on October 21, 2015 01:48:46 AM PDT
